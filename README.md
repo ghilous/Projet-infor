@@ -23,6 +23,4 @@ NOUS N'AVONS PAS REUSSI A FAIRE LA SAUVEGARDE, A PAR CELA TOUT EST CORRECT
 
 
 # PROGRAMMATEURS:
-Ghilas Bougdal
-Laurent Minkoulou
-Maxime Ladini
+Ghilas Bougdal, Laurent Minkoulou && Maxime Ladini
